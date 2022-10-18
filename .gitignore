@@ -76,6 +76,7 @@ target/
 
 # Repo scratch directory
 scratch/
+03_neural_networks_tensorflow/images/
 
 # Misc
 .DS_Store
