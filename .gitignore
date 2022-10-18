@@ -79,6 +79,8 @@ scratch/
 03_neural_networks_tensorflow/images/
 03_neural_networks_tensorflow/cifar10/
 03_neural_networks_tensorflow/cifar10.tgz
+04_modern_neural_networks/resnet34
+
 
 # Misc
 .DS_Store
