@@ -78,6 +78,7 @@ target/
 scratch/
 03_neural_networks_tensorflow/images/
 03_neural_networks_tensorflow/cifar10/
+03_neural_networks_tensorflow/cifar10.tgz
 
 # Misc
 .DS_Store
