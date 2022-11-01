@@ -82,6 +82,12 @@ scratch/
 04_modern_neural_networks/resnet34
 05_dataPipelines/resnet34
 */resnet34
+06_distributedTraining/homework/checkpoints
+06_distributedTraining/homework/*.error
+06_distributedTraining/homework/*.log
+06_distributedTraining/homework/*.cobaltlog
+07_largeScaleTraining/src/ai4sci/checkpoints
+checkpoints/
 
 # Misc
 .DS_Store
