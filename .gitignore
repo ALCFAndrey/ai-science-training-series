@@ -88,6 +88,7 @@ scratch/
 06_distributedTraining/homework/*.cobaltlog
 07_largeScaleTraining/src/ai4sci/checkpoints
 checkpoints/
+07_largeScaleTraining/src/ai4sci/main-bs-512.log
 
 # Misc
 .DS_Store
